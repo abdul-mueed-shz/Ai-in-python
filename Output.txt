@@ -1,0 +1,5 @@
+For houseSales.tsv Value of m is :0.18783783783784522 , and value c is :-7.963513513513972
+For houseSales.tsv Value of mse is :0.021162162162162174
+
+For dollar.tsv Value of m is :2.591577540106952 , and value c is :-5129.562165775401
+For dollar.tsv Value of mse is :30.41869227029674
